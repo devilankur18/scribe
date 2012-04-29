@@ -102,10 +102,10 @@ Make sure that if you change configure.ac and|or add macros run "bootstrap.sh".
 to regenerate configure. In short whenever in doubt run "bootstrap.sh".
 
 
-Builid on Ubuntu 10.04
+To Build on Ubuntu 10.04
 ======================
 
-./configure CPPFLAGS="-DHAVE_INTTYPES_H -DHAVE_NETINET_IN_H
+Use ./configure CPPFLAGS="-DHAVE_INTTYPES_H -DHAVE_NETINET_IN_H
 
 Configure options
 =================
